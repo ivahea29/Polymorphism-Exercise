@@ -1,0 +1,7 @@
+C:\COMP609\Poly\Poly\Poly\bin\Debug\net45\Poly.exe
+C:\COMP609\Poly\Poly\Poly\bin\Debug\net45\Poly.pdb
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net45\Poly.csproj.CoreCompileInputs.cache
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net45\Poly.AssemblyInfoInputs.cache
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net45\Poly.AssemblyInfo.cs
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net45\Poly.exe
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net45\Poly.pdb

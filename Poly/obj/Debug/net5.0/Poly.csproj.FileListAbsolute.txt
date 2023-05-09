@@ -1,0 +1,17 @@
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.exe
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.deps.json
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.runtimeconfig.json
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.runtimeconfig.dev.json
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.dll
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\ref\Poly.dll
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\bin\Debug\net5.0\Poly.pdb
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.csproj.AssemblyReference.cache
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.AssemblyInfoInputs.cache
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.AssemblyInfo.cs
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.csproj.CoreCompileInputs.cache
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.dll
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\ref\Poly.dll
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.pdb
+C:\Courses_2021_Sem2\COMP609\Poly\Poly\obj\Debug\net5.0\Poly.genruntimeconfig.cache
+C:\COMP609\Poly\Poly\Poly\obj\Debug\net5.0\Poly.pdb
